@@ -13,5 +13,6 @@ public class HOLA {
 
     public static void main(String[] args) {
         System.out.println("prueba desde netbeans");
+       System.out.println("Prueba desde eclipse");
     }
 }
