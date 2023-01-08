@@ -12,8 +12,6 @@ package com.mycompany.hola;
 public class HOLA {
 
     public static void main(String[] args) {
-        System.out.println("prueba desde netbeans");
-       System.out.println("Prueba desde eclipse");
-        System.out.println("Prueba desde Intellij");
+        System.out.println("Hola desde git CONSOLA");
     }
 }
